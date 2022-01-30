@@ -1,5 +1,5 @@
---- log4j2.xml	2022-01-30 15:59:18.908965213 +0800
-+++ purpur_log4j2_1141-1165.xml	2022-01-30 15:59:29.115930379 +0800
+--- a/src/main/resources/log4j2.xml
++++ b/src/main/resources/log4j2.xml
 @@ -2,25 +2,25 @@
  <Configuration status="WARN" packages="com.mojang.util" shutdownHook="disable">
      <Appenders>
