@@ -1,3 +1,5 @@
+Subject: [PATCH] Fix Log4j2 BUG
+diff --git a/src/main/resources/log4j2.xml b/src/main/resources/log4j2.xml
 --- a/src/main/resources/log4j2.xml
 +++ b/src/main/resources/log4j2.xml
 @@ -2,25 +2,25 @@
